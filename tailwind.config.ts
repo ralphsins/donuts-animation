@@ -13,6 +13,9 @@ export default {
         foreground: "var(--foreground)",
       },
     },
+    fontFamily: {
+      anton: ["var(--font-anton)"],
+    },
   },
   plugins: [],
 } satisfies Config;
